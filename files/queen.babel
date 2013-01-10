@@ -1,0 +1,6 @@
+# Translation file for the musics from directory Queen
+
+$root "/home/embat/dados/lazer/musicas/Queen/A Night At The Opera 1975"
+$prefix "[artist:Queen][album:A_Night_At_The_Opera]"
+$label track "[0-9][0-9]"
+$label music ".*"
